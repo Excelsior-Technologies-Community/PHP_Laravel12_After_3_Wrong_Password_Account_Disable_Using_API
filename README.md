@@ -267,7 +267,7 @@ class AuthController extends Controller
 
 ---
 
-Step 8 — Register API Routes in Laravel 12
+## Step 8 — Register API Routes in Laravel 12
 
 bootstrap/app.php
 
